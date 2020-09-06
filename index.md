@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/chuckles66/movies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	</head>
+</body>
+<video controls="" autoplay="" name="media"><source src="https://861520854.tapecontent.net/radosgw/ZKkJaoDRzgcq17k/HslesX_e5ezFass6evGOrBnR-g-mXVeTyGtyZj18CT41uYzhUpUZ0OBREHRt3C4y7ZyrGuYKfkwPUzOoC0gpaMZ-Qw80oEyWEATCzHdsWdY-GEcP9NVDOZ4xCz67rmxL94YYsxDyYhJpbj-sQ_wqEJG-pbRbdnshTDHp-nxGcT8oI43jkkGr1qoArjvnyp5lXuG8KBtqBSrq3wuYhzxLzpzQx9fSXI2lJUgmolCGIHOoO0C8dyE4H8kqk03tH9hK1gDs_b5RFw6YE0oMpBaa9OpJuqHuzntrS1MpKUE_ChF02rFAl7U7kncbAPyhbDW5J3cJgbf8556Nz108/Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.DD5.1.x264-CM.mkv.mp4?stream=1" type="video/mp4"></video>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuckles66/movies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
